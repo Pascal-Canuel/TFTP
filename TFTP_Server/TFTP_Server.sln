@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFTP_Server", "TFTP_Server\TFTP_Server.csproj", "{09CA6BD6-ADCC-4D0C-B231-28DE4DAD987C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09CA6BD6-ADCC-4D0C-B231-28DE4DAD987C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09CA6BD6-ADCC-4D0C-B231-28DE4DAD987C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09CA6BD6-ADCC-4D0C-B231-28DE4DAD987C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09CA6BD6-ADCC-4D0C-B231-28DE4DAD987C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E86D19F5-5525-4A6D-A678-08821ADCB309}
+	EndGlobalSection
+EndGlobal
